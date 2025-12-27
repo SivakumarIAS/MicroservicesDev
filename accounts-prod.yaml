@@ -2,7 +2,7 @@
   version: "2.0"
 
 accounts:
-  message: "Welcome to production webhook Test 6 APIs"
+  message: "Welcome to production webhook Test 7 APIs"
   contactDetails:
     name: "Siva PROD Lead"
     email: "{cipher}c1f4ac6d991bbfd5451268a8af9900a2bbe37c14610c73bec3d720d713c2bdf7"
